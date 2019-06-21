@@ -3,3 +3,7 @@
 body {
 	color:#F0F;
 }
+::selection {
+	color: #FFF;
+	background-color: #E54545;
+}

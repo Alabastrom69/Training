@@ -1,1 +1,19 @@
 /* This is the CSS file. */
+
+body {
+	color:#F0F;
+}
+
+a {
+	height: 2px;
+	justify-content: center;
+	animation-name: unset;
+}
+
+p {
+	transform: matrix();
+}
+
+span {
+	right: inherit;
+}

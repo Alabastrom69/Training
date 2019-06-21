@@ -1,2 +1,2 @@
 # Training
-# Testing if I can push to master...
+# This is just a Git training repository between the two of us.

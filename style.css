@@ -1,1 +1,6 @@
 /* This is the CSS file. */
+
+::selection {
+	color: #FFF;
+	background-color: #E54545;
+}

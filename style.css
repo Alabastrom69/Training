@@ -17,3 +17,7 @@ p {
 span {
 	right: inherit;
 }
+
+div {
+	background: yellow;
+}

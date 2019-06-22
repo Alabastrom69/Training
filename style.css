@@ -3,6 +3,7 @@
 body {
 	color:#F0F;
 }
+
 ::selection {
 	color: #FFF;
 	background-color: #E54545;
@@ -10,4 +11,18 @@ body {
 li {
 	list-style: none;
 	color: #bada55;
+}
+
+a {
+	height: 2px;
+	justify-content: center;
+	animation-name: unset;
+}
+
+p {
+	transform: matrix();
+}
+
+span {
+	right: inherit;
 }

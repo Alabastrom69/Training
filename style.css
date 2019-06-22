@@ -6,3 +6,7 @@ body {
 a {
 	height: 2px;
 }
+p {
+	line-height: 1.25;
+	/* Nézzenek oda! */
+}
